@@ -11,6 +11,6 @@
 }
 
 #contact-info{
-   font size:42px;
-   text-align: center;
+   h1{
+      color:red;
 }
